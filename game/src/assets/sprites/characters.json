@@ -1,0 +1,1167 @@
+{
+  "frames": {
+    "npc-3-down-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 15,
+        "w": 51,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-left-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 93,
+        "w": 51,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 15,
+        "w": 51,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-right-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 186,
+        "w": 51,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 15,
+        "w": 51,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-up-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 279,
+        "w": 51,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 15,
+        "w": 51,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-left-1.png": {
+      "frame": {
+        "x": 0,
+        "y": 372,
+        "w": 51,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 51,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-left-3.png": {
+      "frame": {
+        "x": 0,
+        "y": 462,
+        "w": 51,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 51,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-right-1.png": {
+      "frame": {
+        "x": 0,
+        "y": 552,
+        "w": 51,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 18,
+        "w": 51,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-right-3.png": {
+      "frame": {
+        "x": 0,
+        "y": 642,
+        "w": 51,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 18,
+        "w": 51,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-down-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 732,
+        "w": 51,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 18,
+        "w": 51,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-up-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 822,
+        "w": 51,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 18,
+        "w": 51,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-down-1.png": {
+      "frame": {
+        "x": 0,
+        "y": 912,
+        "w": 45,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 45,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-down-3.png": {
+      "frame": {
+        "x": 0,
+        "y": 1002,
+        "w": 45,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 45,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-up-1.png": {
+      "frame": {
+        "x": 0,
+        "y": 1092,
+        "w": 45,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 45,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-3-up-3.png": {
+      "frame": {
+        "x": 0,
+        "y": 1182,
+        "w": 45,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 45,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-left-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 1272,
+        "w": 45,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 45,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-right-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 1362,
+        "w": 45,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 45,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-down-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 1452,
+        "w": 51,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 21,
+        "w": 51,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-up-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 1539,
+        "w": 51,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 21,
+        "w": 51,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-down-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 1626,
+        "w": 51,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 21,
+        "w": 51,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-up-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 1713,
+        "w": 51,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 21,
+        "w": 51,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-left-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 1800,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-right-2.png": {
+      "frame": {
+        "x": 0,
+        "y": 1887,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-down-3.png": {
+      "frame": {
+        "x": 0,
+        "y": 1974,
+        "w": 51,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 24,
+        "w": 51,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-left-1.png": {
+      "frame": {
+        "x": 84,
+        "y": 1974,
+        "w": 51,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 51,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-right-3.png": {
+      "frame": {
+        "x": 168,
+        "y": 1974,
+        "w": 51,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 24,
+        "w": 51,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-left-2.png": {
+      "frame": {
+        "x": 45,
+        "y": 1800,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-right-2.png": {
+      "frame": {
+        "x": 45,
+        "y": 1887,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-down-1.png": {
+      "frame": {
+        "x": 90,
+        "y": 1887,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-down-3.png": {
+      "frame": {
+        "x": 45,
+        "y": 912,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-left-1.png": {
+      "frame": {
+        "x": 45,
+        "y": 999,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-left-3.png": {
+      "frame": {
+        "x": 45,
+        "y": 1086,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-right-1.png": {
+      "frame": {
+        "x": 45,
+        "y": 1173,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-right-3.png": {
+      "frame": {
+        "x": 45,
+        "y": 1260,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-up-1.png": {
+      "frame": {
+        "x": 45,
+        "y": 1347,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player-up-3.png": {
+      "frame": {
+        "x": 51,
+        "y": 1434,
+        "w": 45,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 21,
+        "w": 45,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-left-1.png": {
+      "frame": {
+        "x": 51,
+        "y": 1521,
+        "w": 51,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 51,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-right-3.png": {
+      "frame": {
+        "x": 51,
+        "y": 1605,
+        "w": 51,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 24,
+        "w": 51,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-down-1.png": {
+      "frame": {
+        "x": 51,
+        "y": 1689,
+        "w": 48,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 48,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-left-3.png": {
+      "frame": {
+        "x": 90,
+        "y": 1773,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-right-1.png": {
+      "frame": {
+        "x": 99,
+        "y": 1689,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-up-1.png": {
+      "frame": {
+        "x": 144,
+        "y": 1689,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-1-up-3.png": {
+      "frame": {
+        "x": 135,
+        "y": 1773,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-down-1.png": {
+      "frame": {
+        "x": 135,
+        "y": 1857,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-down-3.png": {
+      "frame": {
+        "x": 180,
+        "y": 1773,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-left-3.png": {
+      "frame": {
+        "x": 180,
+        "y": 1857,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-right-1.png": {
+      "frame": {
+        "x": 225,
+        "y": 1857,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-up-1.png": {
+      "frame": {
+        "x": 252,
+        "y": 1941,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "npc-2-up-3.png": {
+      "frame": {
+        "x": 297,
+        "y": 1941,
+        "w": 45,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 24,
+        "w": 45,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "characters.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 342,
+      "h": 2025
+    },
+    "scale": 1
+  }
+}

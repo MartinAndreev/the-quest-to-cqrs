@@ -1,0 +1,134 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "main.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#modern_tileA5_inside": {
+            "scaleInDock": 1
+        },
+        "cqrs-game.tmx": {
+            "scale": 0.7242,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -85.6117094725214,
+                "y": -305.85473626070154
+            }
+        },
+        "cqrs-game.tmx#modern_tileA5_inside": {
+            "scaleInDock": 1
+        },
+        "cqrs-game.tmx#modern_tileB_inside1": {
+            "scaleInDock": 1.0188
+        },
+        "cqrs-game.tmx#modern_tileB_inside2": {
+            "scaleInDock": 1
+        },
+        "cqrs-game.tmx#modern_tileB_inside3": {
+            "scaleInDock": 1
+        },
+        "main.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 928,
+                "y": 1734
+            }
+        },
+        "main.tmx#tiles": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "menu-scene.tmx": {
+            "scale": 0.6674,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 958.9451603236439,
+                "y": 718.4596943362301
+            }
+        },
+        "menu-scene.tmx#tiles": {
+            "scaleInDock": 0.4964,
+            "scaleInEditor": 1
+        },
+        "menu.tmx": {
+            "scale": 0.2242,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 40.14272970562001,
+                "y": 220.78501338090996
+            }
+        },
+        "menu.tmx#future_tileB_inside1": {
+            "scaleInDock": 1
+        },
+        "menu.tmx#future_tileB_inside2": {
+            "scaleInDock": 1
+        },
+        "menu.tmx#modern_tileA5_inside": {
+            "scaleInDock": 1.0032
+        },
+        "menu.tmx#modern_tileB_inside1": {
+            "scaleInDock": 0.8046
+        },
+        "menu.tmx#modern_tileB_inside2": {
+            "scaleInDock": 1
+        },
+        "start-menu.tmx": {
+            "scale": 2.441796875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.18429051351782,
+                "y": 128.38905775075986
+            }
+        },
+        "start-menu.tmx#master": {
+            "scaleInDock": 1
+        },
+        "test.tmx": {
+            "scale": 0.3076,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1050.0650195058518,
+                "y": 1779.9089726918075
+            }
+        },
+        "test.tmx#tiles": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/home/martin/Projects/lab08/presentations/cqrs/game/src/assets/tileset-maps",
+    "last.imagePath": "/home/martin/Projects/lab08/presentations/cqrs/game/src/assets/tilesets",
+    "map.fixedSize": true,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 48,
+    "map.tileWidth": 48,
+    "openFiles": [
+        "menu-scene.tmx",
+        "main.tmx"
+    ],
+    "project": "cqrs-game.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "menu-scene.tmx",
+        "main.tmx",
+        "test.tmx",
+        "cqrs-game.tmx",
+        "menu.tmx",
+        "start-menu.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}
